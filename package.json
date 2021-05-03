@@ -1,0 +1,32 @@
+{
+  "name": "custom-gulp-tasks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Include.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "gulp": "^4.0.0",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-clean-css": "^4.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-concat-css": "^3.1.0",
+    "gulp-hub": "^4.2.0",
+    "gulp-livereload": "^4.0.2",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-uglify-es": "^1.0.3",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.7",
+    "require-dir": "^1.2.0"
+  },
+  "browserslist": [
+    "last 2 version",
+    "> 2%"
+  ]
+}
