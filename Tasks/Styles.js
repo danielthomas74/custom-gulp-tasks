@@ -6,7 +6,7 @@
 ########################################################################################################################################################################################################
 */
 var gulp = require('gulp');
-var sass = require('gulp-sass');
+var sass = require('gulp-dart-sass');
 var concat = require('gulp-concat');
 var cleanCSS = require('gulp-clean-css');
 var sourcemaps = require('gulp-sourcemaps');
